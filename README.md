@@ -28,7 +28,7 @@ cd my-devops-project
 git init
 
 # Connect the local repository to the remote one on GitHub
-git remote add origin [https://github.com/ash13579/my-devops-project.git](https://github.com/YOUR_USERNAME/my-devops-project.git)
+git remote add origin [https://github.com/ash13579/my-devops-project.git](https://github.com/ash13579/my-devops-project.git)
 
 # Set the default branch name to 'main'
 git branch -M main
